@@ -1,0 +1,20 @@
+[
+    {
+        "categoryName": "ID",
+        "productName": "Shirt",
+        "typeOfProduct": "Apperal",
+        "description": "Code Bridge",
+        "image": "Image",
+        "showInMenu": "Yes",
+        "productsTotal": 1
+    },
+    {
+        "categoryName": "ID",
+        "productName": "USB - Drive",
+        "typeOfProduct": "Electronic",
+        "description": "USB AI",
+        "image": "Image",
+        "showInMenu": "Yes",
+        "productsTotal": 1
+    }
+]

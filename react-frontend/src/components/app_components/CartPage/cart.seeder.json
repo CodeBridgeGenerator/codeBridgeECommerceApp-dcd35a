@@ -1,0 +1,37 @@
+[
+    {
+        "customerName": "Ariff",
+        "items": "Shirt",
+        "total": "Rm50",
+        "subtotal": "Rm60",
+        "tax": 0.1
+    },
+    {
+        "customerName": "Ariff",
+        "items": "Shirt",
+        "total": "Rm50",
+        "subtotal": "Rm60",
+        "tax": 0.1
+    },
+    {
+        "customerName": "Ariff",
+        "items": "Shirt",
+        "total": "Rm50",
+        "subtotal": "Rm60",
+        "tax": 0.1
+    },
+    {
+        "customerName": "Ariff",
+        "items": "Shirt",
+        "total": "Rm50",
+        "subtotal": "Rm60",
+        "tax": 0.1
+    },
+    {
+        "customerName": "Ariff",
+        "items": "Shirt",
+        "total": "Rm50",
+        "subtotal": "Rm60",
+        "tax": 0.1
+    }
+]

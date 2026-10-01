@@ -1,0 +1,34 @@
+[
+    {
+        "coupon": "ID",
+        "couponCode": "C-12",
+        "type": "Fixed",
+        "minimumOrder": 2,
+        "validUntil": 46296,
+        "status": "Completed"
+    },
+    {
+        "coupon": "ID",
+        "couponCode": "C-12",
+        "type": "Percetange",
+        "minimumOrder": 2,
+        "validUntil": 46296,
+        "status": "Completed"
+    },
+    {
+        "coupon": "ID",
+        "couponCode": "C-12",
+        "type": "Percetange",
+        "minimumOrder": 2,
+        "validUntil": 46296,
+        "status": "Completed"
+    },
+    {
+        "coupon": "ID",
+        "couponCode": "C-12",
+        "type": "Fixed",
+        "minimumOrder": 2,
+        "validUntil": 46296,
+        "status": "Completed"
+    }
+]

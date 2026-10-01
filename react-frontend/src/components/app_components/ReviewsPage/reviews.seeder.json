@@ -1,0 +1,29 @@
+[
+    {
+        "review": "ID",
+        "productName": "Shirt",
+        "customerName": "Ariff",
+        "rating": 5,
+        "description": "Nice",
+        "verified": "Yes",
+        "status": "Verified"
+    },
+    {
+        "review": "ID",
+        "productName": "USB",
+        "customerName": "Ariff",
+        "rating": 5,
+        "description": "NIce",
+        "verified": "Yes",
+        "status": "Not Verified"
+    },
+    {
+        "review": "ID",
+        "productName": "USb",
+        "customerName": "Ariff",
+        "rating": 55,
+        "description": "NIce",
+        "verified": "No",
+        "status": "Verified"
+    }
+]

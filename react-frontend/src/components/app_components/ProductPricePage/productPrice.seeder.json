@@ -1,0 +1,22 @@
+[
+    {
+        "basePrice": 20,
+        "discountPrice": 20,
+        "taxPercentage": 0.05
+    },
+    {
+        "basePrice": 20,
+        "discountPrice": 20,
+        "taxPercentage": 0.05
+    },
+    {
+        "basePrice": 20,
+        "discountPrice": 20,
+        "taxPercentage": 0.05
+    },
+    {
+        "basePrice": 20,
+        "discountPrice": 20,
+        "taxPercentage": 0.05
+    }
+]

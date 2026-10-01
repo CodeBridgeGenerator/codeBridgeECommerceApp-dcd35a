@@ -1,0 +1,52 @@
+[
+    {
+        "variant": "Red",
+        "sku": "CB-TEE-BLK-M",
+        "stockType": "Units",
+        "stockQuantity": 30,
+        "reservedQuantity": 20,
+        "availableQuantity": 5,
+        "status": "Completed",
+        "updatedAt": 46296
+    },
+    {
+        "variant": "Red",
+        "sku": "CB-TEE-BLK-M",
+        "stockType": "Units",
+        "stockQuantity": 30,
+        "reservedQuantity": 20,
+        "availableQuantity": 5,
+        "status": "Completed",
+        "updatedAt": 46296
+    },
+    {
+        "variant": "-",
+        "sku": "CB-TEE-BLK-M",
+        "stockType": "Seat",
+        "stockQuantity": 30,
+        "reservedQuantity": 20,
+        "availableQuantity": 5,
+        "status": "Completed",
+        "updatedAt": 46296
+    },
+    {
+        "variant": "-",
+        "sku": "CB-TEE-BLK-M",
+        "stockType": "Seat",
+        "stockQuantity": 30,
+        "reservedQuantity": 20,
+        "availableQuantity": 5,
+        "status": "Completed",
+        "updatedAt": 46296
+    },
+    {
+        "variant": "-",
+        "sku": "CB-TEE-BLK-M",
+        "stockType": "Seat",
+        "stockQuantity": 30,
+        "reservedQuantity": 20,
+        "availableQuantity": 5,
+        "status": "Completed",
+        "updatedAt": 46296
+    }
+]

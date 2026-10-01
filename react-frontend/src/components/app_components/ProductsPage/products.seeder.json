@@ -1,0 +1,50 @@
+[
+    {
+        "productName": "Codebridge Shirt",
+        "categoryName": "Apperal",
+        "variantName": "ID",
+        "productSize": "ID",
+        "productStock": "ID",
+        "productColour": "ID",
+        "sku": "Shirt-Bac-Red",
+        "price": "RM50",
+        "afterDiscount": "RM40",
+        "status": "Active"
+    },
+    {
+        "productName": "Codebridge Shirt",
+        "categoryName": "Apperal",
+        "variantName": "ID",
+        "productSize": "ID",
+        "productStock": "ID",
+        "productColour": "ID",
+        "sku": "Shirt-Bac-Red",
+        "price": "RM50",
+        "afterDiscount": "RM40",
+        "status": "Active"
+    },
+    {
+        "productName": "USB-Drive",
+        "categoryName": "Electronic",
+        "variantName": "ID",
+        "productSize": "ID",
+        "productStock": "ID",
+        "productColour": "ID",
+        "sku": "Shirt-Bac-Red",
+        "price": "RM80",
+        "afterDiscount": "RM50",
+        "status": "Active"
+    },
+    {
+        "productName": "USB-Drive",
+        "categoryName": "Electronic",
+        "variantName": "ID",
+        "productSize": "ID",
+        "productStock": "ID",
+        "productColour": "ID",
+        "sku": "Shirt-Bac-Red",
+        "price": "RM80",
+        "afterDiscount": "RM50",
+        "status": "Draft"
+    }
+]

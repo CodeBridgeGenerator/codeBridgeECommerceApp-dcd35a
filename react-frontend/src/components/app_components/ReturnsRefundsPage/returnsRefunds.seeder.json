@@ -1,0 +1,24 @@
+[
+    {
+        "return": "ID",
+        "orderNumber": "AG-221",
+        "customerName": "Ariff",
+        "itemName": "Shirt",
+        "reason": "Not a same size",
+        "conditon": "Bad",
+        "refund": "RM50",
+        "status": "Completed",
+        "dateReturn": 46296
+    },
+    {
+        "return": "ID",
+        "orderNumber": "AG-221",
+        "customerName": "Ariff",
+        "itemName": "Electronic",
+        "reason": "USB broken",
+        "conditon": "Middle",
+        "refund": "RM50",
+        "status": "Not Completed",
+        "dateReturn": 46296
+    }
+]

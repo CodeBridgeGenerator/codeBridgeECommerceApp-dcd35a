@@ -1,0 +1,14 @@
+[
+    {
+        "sizeCategory": "Man",
+        "sizeValue": "S"
+    },
+    {
+        "sizeCategory": "Woman",
+        "sizeValue": "M"
+    },
+    {
+        "sizeCategory": "Kids",
+        "sizeValue": "L"
+    }
+]
